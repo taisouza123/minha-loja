@@ -3,18 +3,18 @@
     "id": 1,
     "nome": "Violão 1",
     "preco": "R$ 997,00",
-    "imagem": "pasta imagens/imagem-produto1.png",
-    "video": "videos-produto1.mp4",
-    "descricao": "Perca gordura abdominal rapidamente com fórmula natural.",
+    "imagem": "imagens/imagem-produto1.png",
+    "video": "",
+    "descricao": "Produto top de qualidade.",
     "link": "https://seulinkafiliado.com"
   },
   {
     "id": 2,
     "nome": "Violão 2",
     "preco": "R$ 959,00",
-    "imagem": "pasta imagens/imagem-produto2.png",
-    "video": "videos-produto2.mp4",
-    "descricao": "Reduz medidas e melhora a aparência da pele.",
+    "imagem": "imagens/imagem-produto2.png",
+    "video": "",
+    "descricao": "Excelente custo benefício.",
     "link": "https://seulinkafiliado.com"
   }
 ]
