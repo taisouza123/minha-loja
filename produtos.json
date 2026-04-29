@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Seca Barriga Natural",
+    "preco": "R$ 97,00",
+    "imagem": "imagens/produto1.jpg",
+    "video": "videos/produto1.mp4",
+    "descricao": "Perca gordura abdominal rapidamente com fórmula natural.",
+    "link": "https://seulinkafiliado.com"
+  },
+  {
+    "id": 2,
+    "nome": "Gel Redutor",
+    "preco": "R$ 59,00",
+    "imagem": "imagens/produto2.jpg",
+    "video": "videos/produto2.mp4",
+    "descricao": "Reduz medidas e melhora a aparência da pele.",
+    "link": "https://seulinkafiliado.com"
+  }
+]
