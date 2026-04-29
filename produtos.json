@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "nome": "Seca Barriga Natural",
-    "preco": "R$ 97,00",
+    "nome": "Violão 1",
+    "preco": "R$ 997,00",
     "imagem": "pasta imagens/imagem/imagem-produto1.png",
     "video": "videos-produto1.mp4",
     "descricao": "Perca gordura abdominal rapidamente com fórmula natural.",
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "nome": "Gel Redutor",
-    "preco": "R$ 59,00",
+    "nome": "Violão 2",
+    "preco": "R$ 959,00",
     "imagem": "pasta imagens/imagem/imagem-produto2.png",
     "video": "videos-produto2.mp4",
     "descricao": "Reduz medidas e melhora a aparência da pele.",
